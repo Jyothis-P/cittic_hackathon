@@ -201,7 +201,7 @@
   .direction-r .flag:before {
     position: absolute;
     top: -30px;
-      left: 50%;
+      left: 51.5%;
       content: ' ';
       display: block;
       width: 12px;
